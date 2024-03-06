@@ -1,0 +1,24 @@
+<html>
+ <head>
+ <title>Projeto Programação 2024</title>
+ </head>
+ <body>
+ <header class="cabecalho">
+ <h1>Aqui vai uma foto<h1>
+ <ul class="cabecalho-lista">
+ <liclass="cabecalho-lista-item">Escola</li>
+ <liclass="cabecalho-lista-item">Estudante</li>
+ </ul>
+ </header>
+ </body>
+ </html>
+ <section class="escola">
+ <div class="escola-conteudo">
+ <h2 class="escola-titulo">Sobre a Escola</h2>
+ <p class="escola-texto1">Texto sobre o colégio</p>
+ <p class="escola-texto2">A turma mais famosa é o Terceirão, uma turma diversa e engajada, as vezes, bem bagunceira, mas que entrega diferentes resultados!
+ </p>
+ </div>
+</section>
+</body>
+ 
