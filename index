@@ -4,7 +4,7 @@
  </head>
  <body>
  <header class="cabecalho">
- <h1>Aqui vai uma foto<h1>
+ <img class="cabecalho-imagem" src="alurastart_logo.png">
  <ul class="cabecalho-lista">
  <liclass="cabecalho-lista-item">Escola</li>
  <liclass="cabecalho-lista-item">Estudante</li>
