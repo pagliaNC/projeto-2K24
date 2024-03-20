@@ -4,6 +4,8 @@
  </head>
  <body>
  <header class="cabecalho">
+<meta charset="UTF-8">
+<link rel-="stylesheet" href+"style.css">
  <img class="cabecalho-imagem" src="alurastart_logo.png">
  <ul class="cabecalho-lista">
  <liclass="cabecalho-lista-item">Escola</li>
